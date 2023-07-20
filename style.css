@@ -6,7 +6,6 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
-
 /*----------------------------
        header styles
 -----------------------------*/
@@ -46,7 +45,6 @@
     padding: 5px;
     background-color: rgba(11, 2, 35, 0.10);
 }
-
 /*-----------------------------
          intro styles
 -------------------------------*/
@@ -414,7 +412,7 @@
     }  
     .image-4{
         bottom: 150px;
-        left: 45%;
+        left: 0%;
     }
     .career-image > img{
         width: 100%;
@@ -473,7 +471,7 @@
     }  
     .image-4{
         bottom: 200px;
-        left: 45%;
+        left: 0%;
     }
     .career-image > img{
         width: 100%;
